@@ -1,0 +1,6 @@
+{
+  "name": "VOLT Athletic Footwear",
+  "description": "Premium sports and sneaker e-commerce platform engineered for performance, running, basketball, and lifestyle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
